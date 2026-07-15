@@ -1,2 +1,2 @@
-:HL["/luo-laoshi-return/_next/static/chunks/15d-bj_kdb.dm.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"K4fQpCgpTbZxaaXZlYFXR"}
+:HL["/luo-laoshi-return/_next/static/chunks/1162a2uz8d7c_.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"JEn5fE98aH6JT8WKRCdZh"}
