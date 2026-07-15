@@ -1,2 +1,2 @@
 :HL["/luo-laoshi-return/_next/static/chunks/15d-bj_kdb.dm.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"P0y2Ya8dhwiig_X46Q2gt"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"K4fQpCgpTbZxaaXZlYFXR"}
